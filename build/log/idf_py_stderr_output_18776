@@ -1,0 +1,2 @@
+CMake Error: The current CMakeCache.txt directory D:/Projects/Coding/ESP32/Smart_Switches/build/CMakeCache.txt is different than the directory d:/Projects/Coding/ESP32/Self_Wifi/build where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source "D:/Projects/Coding/ESP32/Smart_Switches/CMakeLists.txt" does not match the source "D:/Projects/Coding/ESP32/Self_Wifi/CMakeLists.txt" used to generate cache.  Re-run cmake with a different source directory.

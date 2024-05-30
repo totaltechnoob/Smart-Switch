@@ -1,0 +1,14 @@
+menu "User Configuration"
+    
+    config ESP_WIFI_SSID
+        string "WiFi SSID"
+        default "myssid"
+        help
+            Name of the network
+    
+    config ESP_WIFI_PASSWORD
+        string "WiFi Password"
+        default "password"
+        help
+            Password for the wifi
+endmenu
